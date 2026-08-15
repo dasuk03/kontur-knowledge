@@ -49,3 +49,7 @@ next-env.d.ts
 /.sites-runtime/
 /outputs/
 /work/
+
+# local intake: source documents are reviewed before publication
+/incoming/
+/source-documents/

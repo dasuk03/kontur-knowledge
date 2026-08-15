@@ -13,6 +13,13 @@ export const metadata: Metadata = {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
   },
+  manifest: "./manifest.webmanifest",
+  applicationName: "КОНТУР",
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: "default",
+    title: "КОНТУР",
+  },
 };
 
 export default function RootLayout({

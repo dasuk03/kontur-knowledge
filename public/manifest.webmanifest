@@ -1,0 +1,19 @@
+{
+  "name": "КОНТУР — база знаний специалиста учёта",
+  "short_name": "КОНТУР",
+  "description": "Персональный маршрут обучения, диагностика и полевой справочник специалиста учёта электроэнергии.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f5f6",
+  "theme_color": "#005a9b",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
